@@ -1,0 +1,23 @@
+{
+	"name": "kickass-api",
+	"version": "0.0.1",
+	"description": "Web Scraper to provide methods to access KickAss easier",
+	"author": "SlashmanX",
+	"main": "./index.js",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/SlashmanX/kickass-api.git"
+	},
+	"dependencies": {
+		"request": "latest",
+		"cheerio": "latest",
+		"async": "latest"
+		},
+	"contributors": [
+		{
+		"name": "Eóin Martin",
+		"email": "eoin.martin.3007@gmail.com",
+		"url": "https://github.com/SlashmanX"
+		},
+	]
+}
